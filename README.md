@@ -3,7 +3,7 @@
 <hr>
 
   <P align="left" style="font-size:26px;">
-       <b>Languages >>> </b> 
+       <b>Languages : </b> 
     </P>
     <p align=left>
      <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,7 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=🔥+Welcome+to+my+GitHub;👨‍💻+Syed+Hadi+is+here" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5+Welcome+to+my+GitHub;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Syed+Hadi+is+here"/>
+
 <hr>
+
   <P align="left" style="font-size:26px;">
-       <b>Code in These Language :</b> 
+       <b>Languages >>> </b> 
     </P>
     <p align=left>
      <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
